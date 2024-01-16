@@ -1,0 +1,37 @@
+commit f74bae40c18ecdc15b618ccd430dff85e87a3ec8
+Author: s028km <vladserebrennikov74@mail.ru>
+Date:   Sun Jan 7 15:06:43 2024 +0500
+
+    Добавил test.txt
+
+commit 9386dee5906a660064795349781dbe0e3252671e
+Author: s028km <vladserebrennikov74@mail.ru>
+Date:   Sun Jan 7 15:04:45 2024 +0500
+
+    Добавил .gitignore
+
+commit d6d278f083449d702ba34ec4d502432198243bf2
+Author: s028km <vladserebrennikov74@mail.ru>
+Date:   Sun Jan 7 15:02:03 2024 +0500
+
+    Revert "Оценка сложности и название предмета"
+
+    This reverts commit 75d92dfcacd54a889489a9790b8bb8c11042b2db.
+
+commit 648fb795e1a5221b9880e00b60f4b8fbb8118637
+Author: s028km <vladserebrennikov74@mail.ru>
+Date:   Sun Jan 7 14:51:33 2024 +0500
+
+    Номер аудитории
+
+commit 75d92dfcacd54a889489a9790b8bb8c11042b2db
+Author: s028km <vladserebrennikov74@mail.ru>
+Date:   Sun Jan 7 14:49:12 2024 +0500
+
+    Оценка сложности и название предмета
+
+commit a430ff00bf22fd79669792cdf20eeb49234805bb
+Author: s028km <vladserebrennikov74@mail.ru>
+Date:   Sun Jan 7 14:48:03 2024 +0500
+
+    Мой первый коммит
